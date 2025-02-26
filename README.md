@@ -2,7 +2,7 @@ Yo, I'm <b>Hunteriino</b>, a guy with passion for programming, gaming and watchi
 
 #### 😼 Some of the tech I've worked with includes:
 
-- **Languages:** Java (fav), TypeScript/JavaScript (fav), HTML/CSS/Sass, PHP
+- **Languages:** Java (fav, 7+ years), TypeScript (fav)/JavaScript , HTML/CSS/Sass, PHP, Lua, Python :3
 - **Databases:** MariaDB/MySQL (fav), MongoDB
 - **Webservers:** Bun (fav), Node.js, Nginx, Apache
 - **Deployment:** Docker
