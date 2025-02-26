@@ -11,7 +11,7 @@ Yo, I'm <b>Hunteriino</b>, a guy with passion for programming, gaming and watchi
 
 #### 🙀 What I want to learn
 
-- **Languages:** Rust, GoLang
+- **Languages:** C, Rust, GoLang
 - **Databases:** PostgreSQL
 - **Frameworks:** React, Svelte, Nuxt.js, Tailwind CSS
 
