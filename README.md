@@ -1,16 +1,18 @@
-## Hi there 👋
+Yo, I'm <b>Hunteriino</b>, a guy with passion for programming, gaming and watching movies & tv shows.
 
-<!--
-**Hunteriino/hunteriino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 😼 Some of the tech I've worked with includes:
 
-Here are some ideas to get you started:
+- **Languages:** Java (fav), TypeScript/JavaScript (fav), HTML/CSS/Sass, PHP
+- **Databases:** MariaDB/MySQL (fav), MongoDB
+- **Webservers:** Bun (fav), Node.js, Nginx, Apache
+- **Deployment:** Docker
+- **Insights:** Grafana
+- **Distros:** Ubuntu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🙀 What I want to learn
+
+- **Languages:** Rust, GoLang
+- **Databases:** PostgreSQL
+- **Frameworks:** React, Svelte, Nuxt.js, Tailwind CSS
+
+Feel free to DM me on Discord ([@hunteriino](discordapp.com/users/181459801425969152)) or Steam ([hunteriino](https://steamcommunity.com/id/hunteriino/))
